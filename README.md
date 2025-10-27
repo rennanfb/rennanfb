@@ -14,7 +14,7 @@ Hi there, Thank's for your time 👋
 
 <br>
 
-- 🌱 Improving my skills with C++;
+- 🌱 Improving my skills with software and game development;
 - ⚡ I’m looking for oportunities to enter a professional development environment and gain more experience;
 - 🤔 I’m looking for help with everything that i can learn from you;
 - 💬 Ask me about how the technology are allowing the humankind to grow in a way never seen before;
