@@ -18,18 +18,13 @@ Hi there, Thank's for your time 👋
 - ⚡ I’m looking for oportunities to enter a professional development environment and gain more experience;
 - 🤔 I’m looking for help with everything that i can learn from you;
 - 💬 Ask me about how the technology are allowing the humankind to grow in a way never seen before;
-- 📫 How to reach me: rennanfb37@gmail.com;
 
 <br>
 
 <div align="center">
   <a href="https://instagram.com/ftotherside" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rennan-fernandes-a98522284/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rennanfb37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
 
-<div align="center">
-• flowers for machines •
-</div>
